@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Kambalipura, India",
+        "location": "Banglore",
+        "rate_per_night": 9000,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1094692867410805572/original/6f9b29a6-8657-47ab-9999-14466a787fc6.jpeg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1094692867410805572/original/eaafb3b7-8a30-43df-98ba-840defa55adb.jpeg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1094692867410805572/original/9e112bc4-8362-4d31-8231-ef2d58ff60be.jpeg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1094692867410805572/original/c6c46d47-e1e3-46df-9ba9-d312a6a3ff3d.jpeg?im_w=720", "alt": "Image 4"}]
+    },
+    {
+        "name": "Boppalapuram, India",
+        "location": "Banglore",
+        "rate_per_night": 4000,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-698346642348031619/original/ef7f90aa-7f76-4a16-8d8e-cd8aae07bcb0.jpeg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-698346642348031619/original/bab11895-a9e3-4bb3-92e8-daf9943b9cbd.jpeg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-698346642348031619/original/8cb2ac0f-0a49-4a18-8dea-ae3e088faa84.jpeg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-698346642348031619/original/332e5236-0e9b-4feb-8d34-38f7ec41aa0e.jpeg?im_w=720", "alt": "Image 4"}]
+    },
+    {
+        "name": "Japandi 2bhk Apartment",
+        "location": "Banglore",
+        "rate_per_night": 4500,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-715665180407466650/original/f640b1d5-85ca-46f7-a507-df90f18fc3e8.jpeg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-715665180407466650/original/bded1330-a9c1-41d1-b4ad-357d9887a517.jpeg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-715665180407466650/original/eca0f657-3a8a-42a1-a13f-ee32b6a73e7d.jpeg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-715665180407466650/original/4d31a2ea-973a-4ee2-8189-89907e085c7f.jpeg?im_w=720", "alt": "Image 4"}]
+    },
+    {
+        "name": "The Nook",
+        "location": "Banglore",
+        "rate_per_night": 2100,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-22335455/original/5c1337ea-9ade-4271-9923-e56b23a1070b.jpeg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-22335455/original/ff6d9463-7a8c-487b-b6f3-5b23ad933465.jpeg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-22335455/original/2bb3062d-8597-42ae-9e54-7f35aee7698e.jpeg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-22335455/original/64d019b8-7a41-467c-9773-9ace5b6de9c7.jpeg?im_w=720", "alt": "Image 4"}]
+    },
+    {
+        "name": "Azure : Pvt Studio in Koregaon Park",
+        "location": "Pune",
+        "rate_per_night": 2680,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/084ff58d-8905-4d51-b1b6-922b01b26bc9.jpg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/f04312fd-41d8-4f16-bd85-547a0665f29c.jpg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/423d39ee-569c-4a6c-9301-311839a5ce39.jpg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/6c5904a6-53d4-43cb-99ef-2a31e397e2da.jpg?im_w=720", "alt": "Image 4"}]
+    },
+    {
+        "name": "Rooftop Patio with Jacuzzi @ Koregaon Park-Pune",
+        "location": "Pune",
+        "rate_per_night": 5890,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1074443584868984071/original/7f40d497-6831-4c82-8e50-3c653327125b.jpeg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1074443584868984071/original/d84386cd-765a-4f1d-83b6-85abbd499b7c.jpeg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1074443584868984071/original/81ad5901-e9aa-4307-9718-025e629d0e5a.jpeg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1074443584868984071/original/0a139e7d-fe3f-4e7f-b5ab-4dfedd713eca.jpeg?im_w=720", "alt": "Image 4"}
+        ]
+    },
+    {
+        "name": "Arcadia : Harmonious and virtuous.",
+        "location": "Pune",
+        "rate_per_night": 3420,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-36683116/original/4555849e-f075-4e9c-8fba-9f752f42da17.jpeg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-36683116/original/2329e0ee-ee56-42a8-b084-41618edbb492.jpeg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/49a6d87a-ea90-4564-bbcb-06d6512d1e64.jpg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-36683116/original/481589b8-a543-4031-b46c-262c31873c8c.jpeg?im_w=720", "alt": "Image 4"}
+        ]
+    },
+    {
+        "name": "Tarasha",
+        "location": "Pune",
+        "rate_per_night": 3409,
+        "images": [
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-970931260501235119/original/8b59fe65-a4ab-4ef5-9aec-d3d81eb084bb.jpeg?im_w=720", "alt": "Image 1" }, 
+            { "image": "https://a0.muscache.com/im/pictures/8ed5f502-cd85-4f7e-82f2-727f847c8a22.jpg?im_w=720", "alt": "Image 2" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-970931260501235119/original/3174bf73-f8b2-4779-b701-7bda325c28c6.jpeg?im_w=720", "alt": "Image 3" }, 
+            { "image": "https://a0.muscache.com/im/pictures/miso/Hosting-970931260501235119/original/dc546060-ee1b-4b59-9275-bd368882c626.jpeg?im_w=720", "alt": "Image 4"}
+        ]
+    }
+]
