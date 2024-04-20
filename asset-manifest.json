@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SheShare/static/css/main.4b811fed.css",
+    "main.js": "/SheShare/static/js/main.9918852a.js",
+    "static/js/453.edf5344f.chunk.js": "/SheShare/static/js/453.edf5344f.chunk.js",
+    "static/media/airbnb-logo.svg": "/SheShare/static/media/airbnb-logo.817b8555e3c00eff1122dd85fedef17e.svg",
+    "index.html": "/SheShare/index.html",
+    "main.4b811fed.css.map": "/SheShare/static/css/main.4b811fed.css.map",
+    "main.9918852a.js.map": "/SheShare/static/js/main.9918852a.js.map",
+    "453.edf5344f.chunk.js.map": "/SheShare/static/js/453.edf5344f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b811fed.css",
+    "static/js/main.9918852a.js"
+  ]
+}
